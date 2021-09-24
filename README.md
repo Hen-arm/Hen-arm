@@ -3,14 +3,12 @@
 <h3 align="left">I am a Software Developer at ShellLogix </h3>
 
 
-<a href="#suhailkakar-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
-</a>
+
 <tr height="160">
 
 - :office: &nbsp;I'm currently working at **ShellLogix LLC**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-  -
+
   
 </tr>
 
@@ -195,13 +193,7 @@
 </table>
 
 
-[linkedin]: https://www.linkedin.com/in/suhailkakar "LinkedIn"
-[twitter]: https://twitter.com/SuhailKakar "Twitter"
-[swift]: https://developer.apple.com/swift/ "Swift"
-
-
-
-[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=suhailkakar&theme=react-dark)](https://github.com/suhailkakar)
+[linkedin]: https://www.linkedin.com/in/henrik-armenakyan-46aa8a1a6r "LinkedIn"
 
 
 
