@@ -1,15 +1,18 @@
 
-<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Henrik Armenakyan</h1>
-<h3 align="left">I am a Front-End Developer at ShellLogix </h3>
+<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Suhail Kakar</h1>
+<h3 align="left">I am a Software Developer at Nordstone </h3>
 
 
 <a href="#suhailkakar-title">
   <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **ShellLogix LLC**
+- :office: &nbsp;I'm currently working at **Nordstone UK**
+- :seedling: &nbsp;I’m currently learning **[Swift]**
+- :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
+- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-
+- :bird: &nbsp;Let's talk more in **[Twitter]**
 
 <br>
 
@@ -192,7 +195,11 @@
 </table>
 
 
-[linkedin]: https://www.linkedin.com/in/henrik-armenakyan-46aa8a1a6 "LinkedIn"
+[linkedin]: https://www.linkedin.com/in/suhailkakar "LinkedIn"
+[twitter]: https://twitter.com/SuhailKakar "Twitter"
+[swift]: https://developer.apple.com/swift/ "Swift"
+
+
 
 [![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=suhailkakar&theme=react-dark)](https://github.com/suhailkakar)
 
