@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Nordstone UK**
+ :office: &nbsp;I'm currently working at **Nordstone UK**
 - :seedling: &nbsp;I’m currently learning **[Swift]**
 - :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
