@@ -1,5 +1,4 @@
-<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Henrik Armenakyan</h1>
-<h3 align="left">I am a Software Developer at ShellLogix </h3>
+<h1 align="left" id="suhailkakar-title">:wave: Hello there!</h1>
 
 <tr height="160">
 
@@ -70,15 +69,16 @@
       </a>
       <br>Redux
     </td>
-  </tr>
-
-   <tr>
-          <td align="center" width="96"> 
+        <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
+  </tr>
+
+   <tr>
+      
   </tr>
     
 </table>
