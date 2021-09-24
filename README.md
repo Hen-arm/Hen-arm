@@ -69,14 +69,18 @@
       </a>
       <br>Redux
     </td>
-        <td align="center" width="10%"> 
+        
+  </tr>
+
+   <tr>
+      <td align="center" width="10%"> 
       <a href="#suhailkakar-tech" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
   </tr>
-
+    
 </table>
 
 [linkedin]: https://www.linkedin.com/in/henrik-armenakyan-46aa8a1a6r "LinkedIn"
