@@ -10,6 +10,7 @@
 
 - :office: &nbsp;I'm currently working at **ShellLogix LLC**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
+  -
   
 </tr>
 
