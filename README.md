@@ -8,6 +8,7 @@
 </a>
 
  :office: &nbsp;I'm currently working at **Nordstone UK**
+- :office: &nbsp;I'm currently working at **Nordstone UK**
 - :seedling: &nbsp;I’m currently learning **[Swift]**
 - :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
