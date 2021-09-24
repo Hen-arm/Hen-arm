@@ -91,4 +91,4 @@
     
 </table>
 
-[linkedin]: https://www.linkedin.com/in/henrik-armenakyan-46aa8a1a6r "LinkedIn"
+[linkedin]: https://am.linkedin.com/in/henrik-armenakyan-46aa8a1a6 "LinkedIn"
