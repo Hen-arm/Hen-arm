@@ -40,16 +40,7 @@
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="96">
+        <td align="center" width="96">
       <a href="#suhailkakar-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
       </a>
@@ -61,9 +52,7 @@
       </a>
       <br>Git
     </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
+        <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
@@ -81,6 +70,9 @@
       </a>
       <br>Redux
     </td>
+  </tr>
+
+   <tr>
           <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
@@ -91,4 +83,4 @@
     
 </table>
 
-[linkedin]: https://am.linkedin.com/in/henrik-armenakyan-46aa8a1a6 "LinkedIn"
+[linkedin]: https://www.linkedin.com/in/henrik-armenakyan-46aa8a1a6r "LinkedIn"
