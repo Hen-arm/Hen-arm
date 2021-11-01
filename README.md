@@ -70,7 +70,7 @@
       <a href="#hen-arm" >
         <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" width="48" height="48" alt="scss" />
       </a>
-      <br>SCSS/SASS
+      <br>SCSS
     </td>
     <td align="center" width="117">
       <a href="#hen-arm" >
