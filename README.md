@@ -45,9 +45,9 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://cdn.imgbin.com/5/25/0/imgbin-accelerated-mobile-pages-mobirise-logo-github-github-fhL1DXNUg5P695ipVmzq1nQ91.jpg" width="48" height="48" alt="AMP" />
       </a>
-      <br>Bootstrap
+      <br>AMP
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
