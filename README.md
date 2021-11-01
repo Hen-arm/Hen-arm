@@ -43,6 +43,12 @@
       </a>
       <br>GraphQL
     </td>
+     <td align="center" width="96">
+      <a href="#hen-arm" >
+        <img src="https://brandlogos.net/wp-content/uploads/2015/09/github-logo.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
     <td align="center" width="96">
       <a href="#hen-arm">
         <img src="https://brandlogos.net/wp-content/uploads/2014/11/CSS3-logo-vector.png" width="48" height="48" alt="css" />
@@ -55,12 +61,7 @@
       </a>
       <br>HTML 5
     </td>
-     <td align="center" width="96">
-      <a href="#hen-arm" >
-        <img src="https://brandlogos.net/wp-content/uploads/2015/09/github-mark-logo.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
+    
   </tr>
   
   <tr>
