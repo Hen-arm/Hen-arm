@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://cdn.imgbin.com/5/25/0/imgbin-accelerated-mobile-pages-mobirise-logo-github-github-fhL1DXNUg5P695ipVmzq1nQ91.jpg" width="48" height="48" alt="AMP" />
+        <img src="https://toppng.com/uploads/preview/oogle-amp-logo-11569062889htspzfsihm.png" width="48" height="48" alt="AMP" />
       </a>
       <br>AMP
     </td>
