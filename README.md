@@ -72,7 +72,7 @@
     </td>
     <td align="center" width="96">
       <a href="#hen-arm" >
-        <img src="https://speckyboy.com/wp-content/uploads/2014/04/less.jpg" width="48" height="48" alt="less" />
+        <img src="https://i.ytimg.com/vi/Cgc05E_FiGw/maxresdefault.jpg" width="48" height="48" alt="less" />
       </a>
       <br>LESS
     </td>
