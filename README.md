@@ -49,20 +49,20 @@
       </a>
       <br>Git
     </td>
+     <td align="center" width="96">
+      <a href="#hen-arm">
+        <img src="https://brandlogos.net/wp-content/uploads/2012/04/html5-logo-vector-01.png" width="48" height="48" alt="html" />
+      </a>
+      <br>HTML 5
+    </td>
     <td align="center" width="96">
       <a href="#hen-arm">
         <img src="https://brandlogos.net/wp-content/uploads/2014/11/CSS3-logo-vector.png" width="48" height="48" alt="css" />
       </a>
       <br>CSS 3
     </td>
-    <td align="center" width="96">
-      <a href="#hen-arm">
-        <img src="https://brandlogos.net/wp-content/uploads/2012/04/html5-logo-vector-01.png" width="48" height="48" alt="html" />
-      </a>
-      <br>HTML 5
-    </td>
-    
   </tr>
+  
    <tr>
     <td align="center" width="96"> 
       <a href="#hen-arm" >
@@ -82,11 +82,11 @@
       </a>
       <br>Bootstrap
     </td>
-    <td align="center"  width="96">
-      <a href="#hen-arm">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
+     <td align="center" width="96">
+      <a href="#suhailakar-tech">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
-      <br>Electron
+      <br>Material ui
     </td>
     <td align="center" width="96">
       <a href="#hen-arm">
