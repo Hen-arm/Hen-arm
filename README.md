@@ -76,11 +76,11 @@
       </a>
       <br>LESS
     </td>
-    <td align="center"  width="96">
+     <td align="center" width="96">
       <a href="#hen-arm">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Gatsby
+      <br>Bootstrap
     </td>
     <td align="center"  width="96">
       <a href="#hen-arm">
