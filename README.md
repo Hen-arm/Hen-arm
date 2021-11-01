@@ -92,7 +92,7 @@
       <a href="#hen-arm">
         <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48" alt="Ant Design" />
       </a>
-      <br>Ant Design
+      <br>Ant 
     </td>
     <td align="center"  width="96">
       <a href="#hen-arm">
