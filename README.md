@@ -45,7 +45,7 @@
     </td>
      <td align="center" width="96">
       <a href="#hen-arm" >
-        <img src="https://brandlogos.net/wp-content/uploads/2015/09/github-logo.png" width="48" height="48" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/640px-Github-desktop-logo-symbol.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
