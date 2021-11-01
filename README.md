@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://toppng.com/uploads/preview/oogle-amp-logo-11569062889htspzfsihm.png" width="48" height="48" alt="AMP" />
+        <img src="https://nabpilot.org/wp-content/uploads/2017/01/AMP-1.png" width="48" height="48" alt="AMP" />
       </a>
       <br>AMP
     </td>
