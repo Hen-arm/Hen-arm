@@ -45,9 +45,9 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://nabpilot.org/wp-content/uploads/2017/01/AMP-1.png" width="48" height="48" alt="AMP" />
+        <img src="https://brandlogos.net/wp-content/uploads/2014/11/CSS3-logo-vector.png" width="48" height="48" alt="css" />
       </a>
-      <br>AMP
+      <br>CSS 3
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
