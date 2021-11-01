@@ -27,9 +27,9 @@
     </td>
     <td align="center" width="96">
       <a href="#hen-arm">
-        <img src="https://brandlogos.net/wp-content/uploads/2012/02/next-clothing-logo-vector.jpg" width="48" height="48" alt="Next js " />
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
-      <br>Next Js 
+      <br>Next JS 
     </td>
       <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
