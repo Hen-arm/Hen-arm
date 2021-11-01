@@ -1,6 +1,6 @@
 <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Henrik Armenakyan</h1>
 
-br>
+<br>
 
 <h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
 
