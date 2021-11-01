@@ -31,17 +31,17 @@
       </a>
       <br>Next Js 
     </td>
-    <td align="center" width="96">
-      <a href="#suhailakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      <td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
-      <br>TypeScript
+      <br>Redux
     </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+     <td align="center" width="96">
+      <a href="#suhailkakar-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
       </a>
-      <br>React JS
+      <br>GraphQL
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
