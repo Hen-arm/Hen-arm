@@ -4,7 +4,7 @@
 
 <h2 align="left" id="hen-arm">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+<!-- > Tools, languages, and other things that I like to work with. -->
 
 
 <table align="center">
