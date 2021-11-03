@@ -1,4 +1,4 @@
-<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Henrik Armenakyan</h1>
+<!-- <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Henrik Armenakyan</h1>
 
 <br>
 
@@ -6,7 +6,7 @@
 
 <!-- > Tools, languages, and other things that I like to work with. -->
 
-
+<!-- 
 <table align="center">
   <tr>
     <td align="center" width="117">
@@ -101,4 +101,5 @@
   </tr>
   
   
-</table>
+</table> -->
+ -->
